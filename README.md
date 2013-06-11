@@ -3,6 +3,11 @@ python-svn-ticket-merge
 
 A simple python script for an extended SVN merge for revisions with a ticketing system type of logging
 
+Sample commit with ticketing log
+--------------------------------
+
+	svn ci -m "TICKET-32324 : Updates to this project"
+&nbsp;
 
 Sample calls
 ------------

@@ -30,6 +30,6 @@ Sample calls
 
 **Merge multiple tickets (comma separated)**
 
-	# python merge.py --range=8000:9000 --ticket=TICKET-123,TICKET-45678,TICKET-90112,TICKET-32324 --mergeTo=qa
+	python merge.py --range=8000:9000 --ticket=TICKET-123,TICKET-45678,TICKET-90112,TICKET-32324 --mergeTo=qa
 &nbsp;
 

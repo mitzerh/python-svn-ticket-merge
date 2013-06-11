@@ -23,7 +23,7 @@ Sample calls
 	python merge.py --range=8000:HEAD --ticket=TICKET-32324 --mergeTo=prod
 &nbsp;
 
-**Merge only your latest commit***
+**Merge only your latest commit**
 
 	python merge.py --range=8000:HEAD --ticket=TICKET-32324 --mergeTo=prod -L
 &nbsp;
